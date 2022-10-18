@@ -11,3 +11,4 @@
 1. pine
 
 1行追加したよ！
+New line added by a local environment.
